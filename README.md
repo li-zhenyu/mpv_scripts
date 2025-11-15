@@ -1,6 +1,6 @@
 # My MPV Scripts
 
-Several useful MPV scripts for personal use. Place them in the scripts/ folder of your MPV configuration directory.
+Several useful MPV scripts for personal use. Place them in the `scripts/` folder of your MPV configuration directory.
 
 ## mpv_clock.lua
 
